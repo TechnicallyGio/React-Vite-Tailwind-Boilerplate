@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "name": "React Chrome Extension Boilerplate",
+  "description": "React Chrome Extension Boilerplate for AORUX Chrome Extensions",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "React Chrome Extension"
+  }
+}
