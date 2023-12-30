@@ -24,7 +24,7 @@ function App() {
         </a>
       </div>
       <h1 className='text-center'>Vite + React + TailwindCSS</h1>
-      <p>Vite + React + TailwindCSS</p>
+      <p>Boilerpate</p>
       <div className='card'>
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
